@@ -1491,6 +1491,7 @@ extern const char *TS_HTTP_METHOD_PURGE;
 extern const char *TS_HTTP_METHOD_PUT;
 extern const char *TS_HTTP_METHOD_TRACE;
 extern const char *TS_HTTP_METHOD_PUSH;
+extern const char *TS_HTTP_METHOD_QUERY;
 
 /* --------------------------------------------------------------------------
    HTTP methods string lengths */
